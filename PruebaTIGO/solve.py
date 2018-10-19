@@ -122,3 +122,4 @@ def Prediccion():
         salida += labels[int(letter)]
     return salida
 
+Prediccion()
